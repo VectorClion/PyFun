@@ -1,3 +1,3 @@
-# nothing
-really nothing
-or anything
+# Pylearning
+About python crawl & web framework
+Updated at irregular intervals
